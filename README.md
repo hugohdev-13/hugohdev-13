@@ -14,7 +14,7 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo Full Stack, 
 * 🔗 Desarrollo e integración de **APIs REST**.
 * 🗄️ Experiencia con **SQL Server, PostgreSQL y SQLite**.
 * ⚛️ Desarrollo frontend con **React y TypeScript**.
-* ⚙️ Automatización de procesos con **n8n y Python**.
+* ⚙️ Automatización de procesos con **n8n, Python y UIPATH**.
 * 🐳 Uso de **Docker y Git** para desarrollo y control de versiones.
 * ☁️ Experiencia realizando despliegues de aplicaciones web.
 * 🤖 Interés en **Inteligencia Artificial y automatización**.
