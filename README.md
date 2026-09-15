@@ -149,8 +149,7 @@ Continuar desarrollándome profesionalmente como **Python Developer / Backend De
 
 Estoy abierto a nuevas oportunidades profesionales y a colaborar en proyectos relacionados con desarrollo de software, Python, Backend y automatización.
 
-**LinkedIn:**  
-https://www.linkedin.com/in/hector-hugo-hernandez-serrano-0a4705159/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Héctor_Hugo_Hernández-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hector-hugo-hernandez-serrano-0a4705159/)
 
 **GitHub:**  
 https://github.com/hugohdev-13
